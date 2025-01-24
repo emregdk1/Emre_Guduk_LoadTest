@@ -59,6 +59,8 @@ Results Tree veya Summary Report kullanarak detaylı analiz yapabilirsiniz.
 # HomePage
 Bu test planı aşağıdaki HTTP isteklerini içermektedir:
 
+# Note: "/-438" adlı servis üzerinde JMeter kullanılarak URL doğrulaması gerçekleştirilmiştir.
+
 URL: /-438
 
 Method: GET
@@ -105,6 +107,8 @@ Açıklama: Ana sayfa öneri bileşeni.
 # Test Planı Detayları
 
 # Search
+
+# Note: "/arama/tamamla-358" servisi üzerinde JMeter kullanılarak aramaya yazılan değerin doğrulaması gerçekleştirilmiştir.
 
 Bu test planı aşağıdaki HTTP isteklerini içermektedir:
 
